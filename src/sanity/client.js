@@ -18,9 +18,8 @@ export async function sanityFetch({
 }) {
   return client.fetch(query, params, {
     next: {
-      // revalidate: isDevelopment || tags.length ? false : revalidate,
+      revalidate: isDevelopment || tags.length ? false : revalidate,
       // This is so we can make changes to the Studio in Production and see them immediately
-      revalidate: revalidate,
       tags,
     },
   })
