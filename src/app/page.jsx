@@ -22,7 +22,7 @@ import {
 
 export const metadata = {
   description:
-    'BioSync helps you sell more by revealing sensitive information about your customers.',
+    'BioSync helps with your health, Perfectly Synced with Precision Diagnostics',
 }
 
 function Hero() {

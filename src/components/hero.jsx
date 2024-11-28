@@ -18,8 +18,7 @@ import { Container } from './container'
 let heroSlides = [
   {
     subheading: 'Slide 1',
-    heading:
-      'BioSync helps you sell more by revealing sensitive information about your customers.',
+    heading: 'Your Health, Perfectly Synced with Precision Diagnostics',
     description:
       'At BioSync Laboratory, we provide cutting-edge testing solutions with a focus on innovation for accurate results. Our expert team is ready to help.',
 
@@ -35,7 +34,7 @@ let heroSlides = [
     },
   },
   {
-    subheading: 'Slide 2',
+    subheading: 'BioSync: Redefining Accuracy in Medical Testing',
     heading: 'Precision Testing for Accurate Results',
     description:
       'BioSync helps by assisting you in making informed decisions about your customers.',
@@ -52,7 +51,7 @@ let heroSlides = [
   },
   {
     subheading: 'Slide 3',
-    heading: 'Slide 3 Heading',
+    heading: 'Why Choose BioSync for Your Diagnostic Needs?',
     description:
       'BioSync helps by assisting you in making informed decisions about your customers.',
     buttons: [
